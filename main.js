@@ -15,3 +15,7 @@ function reveal() {
 }
   
 window.addEventListener("scroll", reveal);
+
+const func = () => {
+    console.log("ran")
+}
